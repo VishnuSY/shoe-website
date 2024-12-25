@@ -36,13 +36,13 @@ To run **Footcap** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
+sudo git clone https://vishnusy.github.io/shoe-website/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/footcap.git
+git clone https://vishnusy.github.io/shoe-website/
 ```
 
 ### Contact
